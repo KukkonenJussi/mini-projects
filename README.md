@@ -6,3 +6,5 @@ Tässä repositoriossa on miniprojekteja sekä pythonilla, että javalla tehtyn�
 
 
 ### <ins>Python
+
+* [Taxi trip calculator](Python/Taxi/README.md)
