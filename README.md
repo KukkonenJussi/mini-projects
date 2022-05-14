@@ -1,9 +1,6 @@
-# Johdanto
+# Introduction
 
-Tässä repositoriossa on miniprojekteja sekä pythonilla, että javalla tehtynä. Alapuolella on linkit tehtäviin lajiteltuna ohjelmakielen mukaan.
-
-### <ins>Java
-
+This repository has mini-projects done on both Python and Java. Below are links to tasks sorted by programming language.
 
 ### <ins>Python
 
